@@ -177,5 +177,3 @@ Enter the **password** you set in the `config.yaml` file to access the `code-ser
 - **Password Protection**: Ensure you set a strong password in the `config.yaml` file to prevent unauthorized access.
 
 ---
-
-Let me know if you need further assistance! 🚀
